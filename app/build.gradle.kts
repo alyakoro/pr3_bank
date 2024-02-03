@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.korobeynikova.pr3_bank"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.korobeynikova.pr3_bank"
